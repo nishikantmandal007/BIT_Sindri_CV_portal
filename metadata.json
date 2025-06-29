@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Resume Builder",
+  "description": "A web-based portal to create, edit, and download a professional resume. Users can modify all text sections, upload a profile picture and a logo, and download the final resume as a PDF.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
